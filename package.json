@@ -1,7 +1,7 @@
 {
   "name": "my-reads",
   "version": "0.1.0",
-  "homepage": "https://hiseni.github.io/my-reads",
+  "homepage": "https://nivax07.github.io/my-reads",
   "private": true,
   "dependencies": {
     "immutability-helper": "^2.3.1",
