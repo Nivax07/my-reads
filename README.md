@@ -23,7 +23,6 @@ Open a terminal at the project root and run `npm install` to install all depende
 
 - `npm run start`: runs the app in development mode
 - `npm run build`: builds the app for production to the build folder
-- `npm run deploy`: deploys the app to GitHub Pages
 - `npm run test`: runs the test watcher in an interactive mode
 
 ## Running the project
@@ -45,16 +44,3 @@ Searching is currently limited to `20` books per search as well as these keyword
 1. Open a terminal at the app's root folder and run `npm start`
 2. Start coding!
 
-### Production
-
-Click [here](https://nivax07.github.io/my-reads/) for the live version of this app.
-
-#### :exclamation: Important :exclamation:
-
-The service worker only works in production mode.
-
-## Deployment
-
-1. Configure `package.json` informing your `homepage`
-2. Run `npm run deploy`
-3. Access http://githubaccount.github.io/repository
